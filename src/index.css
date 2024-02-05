@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+
+
+  body{
+    @apply bg-primary_bg
+  }
+}
+
+.font-candara {
+  font-family: 'Candara', sans-serif;
+}
+
+.font-verdana {
+  font-family: Verdana, sans-serif;
+}
+
+.font-monaco {
+  font-family: Monaco, monospace;
+}
+
+.text-custom-orange {
+  color: #bc6c25;
+}
+
+.text-cblack {
+  color: black;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.link-symbol::before {
+  content: '\1F517';
+}
+
