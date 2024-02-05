@@ -6,7 +6,7 @@ function Navbar() {
       <div></div>
       <div className="flex flex-col items-start justify-center gap-2 md:flex-row">
         <span className="text-xl md:text-2xl lg:text-3xl xl:text-6xl font-monaco text-custom-orange uppercase font-bold ">
-          Hola!
+          Hello!
         </span>
         <p className="text-md md:text-2xl lg:text-3xl xl:text-6xl font-monaco">
           I am Praveen Raj
