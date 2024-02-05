@@ -3,8 +3,6 @@
 @tailwind utilities;
 
 @layer base{
-
-
   body{
     @apply bg-primary_bg
   }
@@ -39,4 +37,3 @@ body {
 .link-symbol::before {
   content: '\1F517';
 }
-
