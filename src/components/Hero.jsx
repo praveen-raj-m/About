@@ -13,7 +13,7 @@ function Hero() {
       </div>
 
       {/* Right Side */}
-      <div className="flex flex-col font-candara pt-10 lg:overflow-hidden lg:overflow-y-auto lg:pt-20 px-4">
+      <div className="flex flex-col font-candara pt-10 overflow-hidden overflow-y-auto lg:pt-20 px-4">
         <h1 className="text-5xl lg:text-6xl font-black mb-4">
           So, Who Am I?
         </h1>
@@ -24,6 +24,7 @@ function Hero() {
         </p>
         <p className="text-xl md:text-2xl lg:text-3xl text-gray-700 mb-6">
           I am currently pursuing my Masters at{" "}
+
           <span className="text-custom-orange">Arizona State University </span>
           majoring in Computer Science.
         </p>
@@ -44,6 +45,7 @@ function Hero() {
                 "ponder over AI's takeover.",
                 "vibe to good music ^_^",
                 "spend hours in my code and find it was that one semicolon the whole time.",
+                "never say no to hot chocolates",
                 "play badminton for fun :)",
                 "read books.",
                 "enjoy brainstorming ideas over any topic.",

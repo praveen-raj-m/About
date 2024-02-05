@@ -19,7 +19,7 @@ function Navbar() {
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://https://www.linkedin.com/in/praveenraj-m/"
+          url="https://www.linkedin.com/in/praveenraj-m/"
           bgColor="transparent"
           className="element-size"
 
