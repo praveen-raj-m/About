@@ -136,7 +136,7 @@ function About() {
           
 
           <a
-              href="https://drive.google.com/file/d/1yu9VPl4KGLVCrlSsBqXJTzrsDiM_c2DX/view?usp=sharing"
+              href="https://docs.google.com/document/d/1f6CUR1Qe_VUKgG0I_hrA_GArLUCDmZzlKRDgo9Zklo0/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="link-symbol"
